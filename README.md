@@ -4,3 +4,5 @@
 yarn
 node .
 ```
+
+See `/src/main.js` for more details.
